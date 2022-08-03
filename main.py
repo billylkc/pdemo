@@ -3,7 +3,7 @@ def main():
 
 
 def dev():
-    print("Main")
+    print("dev")
 
 
 if __name__ == '__main__':
