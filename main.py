@@ -4,6 +4,7 @@ def main():
 
 def dev():
     print("dev")
+    print("Print sth")
 
 
 if __name__ == '__main__':
