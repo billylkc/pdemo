@@ -14,6 +14,8 @@ def dev():
     print("some notes from A")
     print("some other notes from A")
     print("Print sth")
+    print("Print sth more")
+    print("Print sth more")
 
 
 if __name__ == '__main__':
